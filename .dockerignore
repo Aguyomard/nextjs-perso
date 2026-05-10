@@ -1,0 +1,10 @@
+node_modules
+.next
+.git
+.gitignore
+*.md
+.dockerignore
+Dockerfile
+npm-debug.log*
+.env*.local
+.vercel
